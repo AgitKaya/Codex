@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  min-height: 100vh;
+}
+
+.card {
+  border: none;
+  border-radius: 1rem;
+}
+
+.btn-primary {
+  background-color: #1da1f2;
+  border-color: #1da1f2;
+}
+
+.btn-primary:hover {
+  background-color: #0d8de1;
+  border-color: #0d8de1;
+}
